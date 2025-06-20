@@ -1,0 +1,4 @@
+# Ignore the internal database directory
+internal/db
+# Ignore the cotacao.txt file
+cotacao.txt
