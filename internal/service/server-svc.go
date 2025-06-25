@@ -16,7 +16,7 @@ import (
 
 var client = &http.Client{}
 var timeoutPersistenceDatabase = time.Millisecond * 10
-var timeoutRequestApi = time.Millisecond * 2000
+var timeoutRequestApi = time.Millisecond * 200
 
 type ServerSvc struct{}
 
